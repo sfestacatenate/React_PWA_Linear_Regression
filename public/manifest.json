@@ -1,7 +1,7 @@
 {
     "name": "CSV Regression App",
     "short_name": "CSV Regression",
-    "description": "Un'app per calcolare la regressione lineare da un file CSV.",
+    "description": "An app to calculate linear regression from a CSV file.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
