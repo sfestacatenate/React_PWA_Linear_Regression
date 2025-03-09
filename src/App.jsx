@@ -107,7 +107,7 @@ const App = () => {
 
   return (
     <div className="p-6 max-w-4xl mx-auto text-center">
-      <h1 className="text-2xl font-bold mb-4">CSV Regression App - <a href="http://localhost:5173/" className="text-blue-500 hover:underline">Info</a></h1>
+      <h1 className="text-2xl font-bold mb-4">CSV Regression App - <a href="https://github.com/sfestacatenate/React_PWA_Linear_Regression" className="text-blue-500 hover:underline">Info</a></h1>
       <input type="file" accept=".csv" onChange={handleFileUpload} className="mb-4 border p-2 cursor-pointer" />
       {equation && (
         <div
