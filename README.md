@@ -18,6 +18,7 @@ This is a **React** application developed as a **Progressive Web App (PWA)** tha
 ---
 
 ## **🛠️ Installation & Running Locally**  
+```sh
 git clone https://github.com/sfestacatenate/React_PWA_Linear_Regression.git
 cd React_PWA_Linear_Regression
 npm install
